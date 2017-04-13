@@ -1,1 +1,14 @@
 
+/* specify the language that has to be extracted*/
+
+Extraction Language Ocaml.
+
+/*load some coq environments*/
+
+Require Import Coq.Arith.Arith.
+Require Import Coq.Arith.EqNat.
+Require Import ImpCEvalFun.
+
+/* tell coq the name of the definition to be extracted*/
+
+Extraction "imp1.ml" ceval_step.
