@@ -9,7 +9,6 @@ OCaml compiler
 - fun with coq
 
 -Tried to extract ocaml code from coq code 
--Will prove famous Post's theorem using coq and OCaml
--PROOFS are possible in OCaml!!!
+-Will prove Post's theorem using coq and OCaml
 
 
