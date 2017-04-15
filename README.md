@@ -1,3 +1,3 @@
-# Link Checker with OCaml
+# Solving a Pentaminos puzzle
 
 
